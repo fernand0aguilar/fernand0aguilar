@@ -11,10 +11,7 @@ I specialise in JavaScript technologies such as NodeJS and React. Besides that, 
 
 
 ### You can also find me on
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-ribeiro-aguilar-044029132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fraguilar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@fernand0aguilar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.fraguilar.com)  
-
-### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=fernand0aguilar&show_icons=true&theme=radical)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fernando-ribeiro-aguilar-044029132/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fraguilar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@fernand0aguilar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://fraguilar.com)  
 
 <!--
 **fernand0aguilar/fernand0aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
