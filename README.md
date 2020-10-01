@@ -2,12 +2,13 @@
 ###### *Software Engineer*
 
 I am a Full Stack Developer working on web applications.
-I specialise in JavaScript technologies such as NodeJS and React. Besides that, I am an enthusiast of Data Science and Blockchain and I look to become an expert in those fields.
+I specialise in JavaScript technologies. Besides that, I am an enthusiast of Data Science and Blockchain and I look to become an expert in those fields.
 
 * Frontend: HTML, CSS, SASS, JavaScript,
 * Backend: NodeJS, Python/Django, 
+* DataScience: Pandas, Keras, Tensorflow
 * Infrastructure: Debian, Docker, Kubernetes
-* CI/CD: Trevis, GitlabCI, GithubActions, Jenkins 
+* CI/CD: Trevis, GitlabCI, GithubActions 
 
 
 ### You can also find me on
@@ -21,18 +22,4 @@ I specialise in JavaScript technologies such as NodeJS and React. Besides that, 
 
 - 🌱 I’m currently learning twitter marketing and sales.
 - ⚡ Fun fact: I have no idea what I'm doing
-
-<!--
-**fernand0aguilar/fernand0aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a software Engineer student for University of Brasilia
